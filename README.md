@@ -1,1 +1,1 @@
-# ensemble_alzheimer_detection
+# Ensemble Alzheimer Detection
